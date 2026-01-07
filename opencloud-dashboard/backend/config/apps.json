@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jellyfin",
+    "name": "Jellyfin",
+    "installCommand": "echo Installing Jellyfin..."
+  },
+  {
+    "id": "nextcloud",
+    "name": "Nextcloud",
+    "installCommand": "echo Installing Nextcloud..."
+  },
+  {
+    "id": "wiki",
+    "name": "Offline Wiki",
+    "installCommand": "echo Installing Wiki..."
+  }
+]
